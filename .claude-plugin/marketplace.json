@@ -1,0 +1,14 @@
+{
+  "name": "okf-toolkit",
+  "description": "Tools for Google's Open Knowledge Format (OKF) v0.1 — author, explore, validate, and visualize knowledge bundles.",
+  "owner": {
+    "name": "Shreytam Goyal"
+  },
+  "plugins": [
+    {
+      "name": "okf-toolkit",
+      "source": "./",
+      "description": "Author, explore, validate, and visualize Open Knowledge Format (OKF) v0.1 bundles."
+    }
+  ]
+}

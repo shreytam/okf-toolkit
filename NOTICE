@@ -1,0 +1,22 @@
+OKF Toolkit
+Copyright 2026 Shreytam Goyal
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+--------------------------------------------------------------------------------
+Third-party content
+
+This repository vendors the Open Knowledge Format (OKF) v0.1 specification,
+included at:
+
+  skills/okf-author/references/okf-spec.md
+  skills/okf-explore/references/okf-spec.md
+  skills/okf-validate/references/okf-spec.md
+  skills/okf-visualize/references/okf-spec.md
+
+The OKF v0.1 specification is authored by the Google Cloud Data Cloud team and
+is licensed under the Apache License, Version 2.0. Source:
+https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
+
+The vendored copies retain their original attribution headers. No changes were
+made to the substance of the specification.

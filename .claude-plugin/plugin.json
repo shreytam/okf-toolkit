@@ -1,0 +1,17 @@
+{
+  "name": "okf-toolkit",
+  "version": "0.2.1",
+  "description": "Work with Google's Open Knowledge Format (OKF) v0.1: author conformant knowledge bundles from schemas/docs/runbooks, explore and query existing bundles, validate conformance, and visualize bundles as interactive HTML knowledge graphs.",
+  "author": {
+    "name": "Shreytam Goyal"
+  },
+  "keywords": [
+    "okf",
+    "open-knowledge-format",
+    "knowledge-base",
+    "llm-wiki",
+    "metadata"
+  ],
+  "homepage": "https://github.com/shreytam/okf-toolkit",
+  "license": "Apache-2.0"
+}
